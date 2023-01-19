@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>591601585604-r3trn526sdjahb22qfnlo9ka30glnhnr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.591601585604-r3trn526sdjahb22qfnlo9ka30glnhnr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRtSXn2C8Kv2WxInWxT0lel7-hmTNonJM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>591601585604</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.http</string>
+	<key>PROJECT_ID</key>
+	<string>homeless-55290</string>
+	<key>STORAGE_BUCKET</key>
+	<string>homeless-55290.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:591601585604:ios:622484a4bb557c77c4e891</string>
+</dict>
+</plist>

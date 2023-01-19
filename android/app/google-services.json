@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "591601585604",
+    "project_id": "homeless-55290",
+    "storage_bucket": "homeless-55290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591601585604:android:e98974c92897c054c4e891",
+        "android_client_info": {
+          "package_name": "com.example.http"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591601585604-9e04p5u9l1tcob6drirkrbiief1qj91h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfYpfMvVJhmnrQ9cLKe5Zzi983mZtWqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591601585604-9e04p5u9l1tcob6drirkrbiief1qj91h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591601585604-r3trn526sdjahb22qfnlo9ka30glnhnr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.http"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
